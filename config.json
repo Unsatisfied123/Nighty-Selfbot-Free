@@ -1,5 +1,5 @@
 {
-  "token": "token here",
+  "token":",
   "prefix": ".",
   "deletetimer": 40,
   "errorlog": "message"
